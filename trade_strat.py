@@ -40,7 +40,7 @@ class trader():
         
         return(df_price)
     
-'''
+
     def get_sma(self, stock, df_prices, window=12):
         sma = df_prices.rolling(window=window, min_periods=window).mean()
         sma = round(float(sma[stock].iloc[-1]), 4)
@@ -67,4 +67,3 @@ class trader():
         
         return(trade)
         
-'''     
