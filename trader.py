@@ -1,7 +1,6 @@
 import config #imports python script with username and password
 #kept in separate script for security reasons
 import trade_strat
-#import grapher
 
 import robin_stocks.robinhood as rh
 import datetime as dt
