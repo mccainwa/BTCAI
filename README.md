@@ -15,7 +15,9 @@
 -
 
 # Model Type/s:
--
+- Linear Regression
+- Logistic Regression
+- 
 
 # Training Data & Datasets:
 -
