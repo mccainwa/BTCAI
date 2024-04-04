@@ -14,7 +14,7 @@
   - Noise: is the part of a time series's variability that can neither be explained by seasonality nor by a trend. When building models, you combine different components into a mathematical formula. Two parts of such a formula can be seasonality and trend. A model that combines both will never perfectly represent the temperature values; an error will always remain. This is represented by the noise factor.
 
 # Objectives:
--
+- Predict BTC daily values
 
 # Model Type/s:
 - Linear Regression
@@ -22,7 +22,7 @@
 - 
 
 # Training Data & Datasets:
--
+- BTC data from Reference 
 
 # Outputs/Outcomes, Plots, etc:
 - 
