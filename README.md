@@ -1,5 +1,7 @@
 # RobinhoodAI
 # References: 
+- https://www.kaggle.com/datasets/prasoonkottarathil/btcinusd/data?select=BTC-Daily.csv --- Bitcoin Data
+- https://www.analyticsvidhya.com/blog/2021/10/machine-learning-for-stock-market-prediction-with-step-by-step-implementation/
 - https://neptune.ai/blog/select-model-for-time-series-prediction-task
 - https://neptune.ai/blog/predicting-stock-prices-using-machine-learning
 - https://www.simplilearn.com/tutorials/machine-learning-tutorial/stock-price-prediction-using-machine-learning
