@@ -1,4 +1,4 @@
-# RobinhoodAI
+# BTCAI
 # References: 
 - https://www.kaggle.com/datasets/prasoonkottarathil/btcinusd/data?select=BTC-Daily.csv --- Bitcoin Data
 - https://www.analyticsvidhya.com/blog/2021/10/machine-learning-for-stock-market-prediction-with-step-by-step-implementation/
@@ -14,15 +14,15 @@
   - Noise: is the part of a time series's variability that can neither be explained by seasonality nor by a trend. When building models, you combine different components into a mathematical formula. Two parts of such a formula can be seasonality and trend. A model that combines both will never perfectly represent the temperature values; an error will always remain. This is represented by the noise factor.
 
 # Objectives:
-- Predict BTC daily values
+- Predict BTC High and Low trends/values --- Shown in a Linear Regression Model
+- Predict trends for Hour, Day, Week, Month, & Year --- 5 Graphs/Charts for each group
 
 # Model Type/s:
 - Linear Regression
 - Logistic Regression
-- 
 
 # Training Data & Datasets:
 - BTC data from Reference 
 
 # Outputs/Outcomes, Plots, etc:
-- 
+- Regression Plots with predicted values shown
